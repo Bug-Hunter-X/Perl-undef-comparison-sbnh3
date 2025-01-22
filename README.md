@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an uncommon error related to comparing undefined values. The script highlights the proper way to check for undefined values in Perl, which is to use the 'defined' function.  The solution provides a corrected version.
